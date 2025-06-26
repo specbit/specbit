@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @specbit
 - 👀 I’m interested in C#, SQL, Js (4 now)
-- 🌱 I’m currently learning visual C#
+- 🌱 I’m currently learning visual C# and .NET Core MVC
 - 💞️ I’m looking forward to learn more
 - 📫 How to reach me nmiguelgomes@hotmail.com
 
