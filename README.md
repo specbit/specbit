@@ -9,7 +9,8 @@
 - 💻 Working with **ASP.NET Core MVC**, **.NET MAUI**, **REST APIs**, **JWT auth**  
 - 🧠 Strong problem-solving mindset, communication skills and reliability  
 - 🎓 Completing a **1400h specialization course (TPSI)** with Web, Mobile & Desktop projects  
-- 🛠 Hardware repair, OS configuration and networking (Cisco CCNA training)  
+- 🖥️ Hardware repair and OS configuration  
+- 🌐 Networking fundamentals (Cisco CCNA training)
 
 ---
 
