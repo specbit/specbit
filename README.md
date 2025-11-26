@@ -1,47 +1,85 @@
-# 👋 Hi, I'm Nuno Miguel Gomes (SpecBit)
+<h1 align="center">👋 Hi, I'm <strong>Nuno Miguel Gomes</strong> (SpecBit)</h1>
 
-**Junior .NET Developer (Career Transition)**  
-Focused on **ASP.NET Core, MVC, .NET MAUI, SQL Server** and modern software development practices.
-
----
-
-## 🚀 About Me
-- 🔄 Transitioning from a diverse professional background into full-stack development  
-- 💻 Building real projects in **Web (MVC)**, **Mobile (MAUI)** and **Desktop (WinForms/WPF)**  
-- 🔐 Experienced with **authentication, JWT, REST APIs** and database modeling  
-- 🧠 Strong analytical thinking, problem solving and communication skills  
-- 🎓 Currently completing a **1400h programming specialization (TPSI)**  
+<h3 align="center">Junior .NET Developer · Career Transition · ASP.NET Core · MAUI · SQL Server</h3>
 
 ---
 
-## 🛠️ Tech Stack
-**Languages:** C#, SQL, JavaScript  
-**Frameworks:** ASP.NET Core MVC · .NET MAUI  
-**Tools:** Entity Framework · Git · Visual Studio · SQL Server  
-**Past experience:** hardware repair, OS configuration, networking (Cisco CCNA training)
+## 🔥 About Me
+- 🚀 Transitioning into software development after a diverse professional background  
+- 💻 Working with **ASP.NET Core MVC**, **.NET MAUI**, **REST APIs**, **JWT auth**  
+- 🧠 Strong problem-solving mindset, communication skills and reliability  
+- 🎓 Completing a **1400h specialization course (TPSI)** with Web, Mobile & Desktop projects  
+- 🛠 Hardware repair, OS configuration and networking (Cisco CCNA training)  
 
 ---
 
-## 📌 Featured Projects
-- 🏢 **CondoManagerPrime** – ASP.NET Core MVC · SignalR · Identity · SQL Server  
-- 🌦️ **Weather Mobile App (MAUI)** – MVVM · JWT Auth · API REST · Records  
-- 🖥️ **Ticket Sales Desktop Apps** – WinForms & WPF front-ends with API integration  
-- 🎮 **C Tic-Tac-Toe (Console)** – small project from earlier studies
+## 🛠 Tech Stack & Tools
+
+### **Languages**
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### **Frameworks**
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge)
+
+### **Tools**
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ---
 
-## 📚 Learning & Next Steps
-- 🌐 Front-end foundations with **Angular**  
-- 🐍 Python for **automation** and **AI workflows**  
-- 🔒 Long-term interest in **cybersecurity**, to complement software development
+## ⭐ Featured Projects
+
+### 🏢 **CondoManagerPrime**  
+**ASP.NET Core MVC · SignalR · SQL Server · Identity**  
+Full-featured condominium management system with real-time communication.
+
+🔗 *Repository:* https://github.com/specbit/CondoManagerPrime
+
+---
+
+### 🌦️ **Weather Mobile App (MAUI)**  
+**.NET MAUI · MVVM · REST API · JWT Authentication · Records**  
+Mobile app with weather search, favorites, token-based login and API integration.
+
+🔗 *Repository:* 
+
+---
+
+### 🎫 **Ticket Sales Desktop Apps (WinForms & WPF)**  
+**Desktop front-ends + API Integration**  
+Two versions of the same system: classic and modern UI.
+
+🔗 *Repository:* 
+
+---
+
+### 🎮 **Tic-Tac-Toe in C (Console)**  
+Small but meaningful early project using low-level programming logic.
+
+---
+
+## 📘 Learning & Next Steps
+- 🌐 Improving front-end skills (Angular)  
+- 🐍 Python for automation and AI workflows  
+- 🔒 Exploring cybersecurity as a complementary area  
 
 ---
 
 ## 🎨 A bit more about me
-I also have an artistic background (music and performance), which has always strengthened my creativity, communication and ability to connect with people.
+I also come from an artistic background in music and performance, which enhances my creativity, communication and ability to connect with people.
 
 ---
 
 ## 📫 Contact
-**Email:** nmiguelegomes@hotmail.com  
-**GitHub:** https://github.com/specbit
+
+📧 **Email:** nmiguelegomes@hotmail.com  
+🐙 **GitHub:** https://github.com/specbit  
+
+---
+
+<p align="center">✨ Thanks for visiting my profile! ✨</p>
