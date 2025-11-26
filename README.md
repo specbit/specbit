@@ -46,7 +46,7 @@ Full-featured condominium management system with real-time communication.
 **.NET MAUI · MVVM · REST API · JWT Authentication · Records**  
 Mobile app with weather search, favorites, token-based login and API integration.
 
-🔗 *Repository:* 
+🔗 *Repository:* https://github.com/specbit/GlobalMauiWeather.git
 
 ---
 
