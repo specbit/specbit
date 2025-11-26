@@ -50,6 +50,16 @@ Mobile app with weather search, favorites, token-based login and API integration
 
 ---
 
+### ✈️ Aeronautica Web Project (MVC)
+**ASP.NET Core MVC · SQL Server · Identity · Email Service · Flight search & ticket management**
+
+Web application for flight ticket sales, including authentication, flight search, ticket reservation, and an email notification system.  
+Currently updating the email service (previously using a trial SMTP provider).
+
+🔗 *Repository:* https://github.com/specbit/AeronauticaWebProjectMVC
+
+---
+
 ### 🎫 **Ticket Sales Desktop Apps (WinForms & WPF)**  
 **Desktop front-ends + API Integration**  
 Two versions of the same system: classic and modern UI.
@@ -77,6 +87,7 @@ I also come from an artistic background in music and performance, which enhances
 
 ## 📫 Contact
 
+📧 **Email:** nmiguelegomes77@gmail.com  
 📧 **Email:** nmiguelegomes@hotmail.com  
 🐙 **GitHub:** https://github.com/specbit  
 
